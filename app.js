@@ -19,9 +19,7 @@
  * 4. Add your PAGE_ACCESS_TOKEN to your environment vars
  *
  */
-app.get('/',)()=>(
 
-)
 'use strict';
 /** UPDATE YOUR VERIFY TOKEN **/
 const VERIFY_TOKEN = "passmeo";
